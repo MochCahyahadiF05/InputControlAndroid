@@ -36,4 +36,4 @@ Tampilan terdiri dari:
 
 ## Hasil
 
-![Tampilan Aplikasi]([https://drive.google.com/uc?export=view&id=1AbCDeFGhiJKLmNOPQR2stuVWxyz](https://drive.google.com/file/d/1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c/view?usp=drive_link))
+![Tampilan Aplikasi](https://drive.google.com/uc?export=view&id=1AbCDeFGhiJKLmNOPQR2stuVWxyz](https://drive.google.com/file/d/1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c/view?usp=drive_link))
