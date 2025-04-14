@@ -36,4 +36,4 @@ Tampilan terdiri dari:
 
 ## Hasil
 
-![Nama Gambar](https://drive.google.com/uc?export=view&id=1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c)
+<img src="https://drive.google.com/uc?export=view&id=1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c" alt="Tampilan Aplikasi" width="300"/>
