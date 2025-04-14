@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanP5</string>
+    <string name="btn_datePicker">Pilih Tanggal</string>
+    <string name="text_datePicker">Tanggal Dipilih Akan Muncul Disini!</string>
+    <string name="btn_alert">Tampilkan Alert</string>
+    <string name="text_hint_number">Masukan Nomor Hp</string>
+    <string name="btn_submit_phone">Submit Nomor Hp</string>
+</resources>
