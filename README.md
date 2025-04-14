@@ -37,3 +37,5 @@ Tampilan terdiri dari:
 ## Hasil
 
 <img src="https://drive.google.com/uc?export=view&id=1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c" alt="Tampilan Aplikasi" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c" alt="Tampilan Aplikasi" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1Le2priTugU5rzHpfTx7rlpTeB6mDQP3c" alt="Tampilan Aplikasi" width="300"/>
