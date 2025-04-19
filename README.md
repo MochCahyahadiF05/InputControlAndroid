@@ -7,7 +7,7 @@
 
 ## Deskripsi Tugas
 
-Tugas ini mengharuskan mahasiswa untuk mengimplementasikan minimal 2 input control di Android Native menggunakan Kotlin. Komponen yang digunakan:
+Komponen yang digunakan:
 
 1. *Date Picker*  
    - Digunakan untuk memilih tanggal.
